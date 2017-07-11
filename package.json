@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/galaa2011/vue-ga.git"
+    "url": "git+https://github.com/acelan-86/rollup-init.git"
   },
   "keywords": [
     "vue-ga"
@@ -19,9 +19,9 @@
   "author": "acelan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/galaa2011/vue-ga/issues"
+    "url": "https://github.com/acelan86/rollup-init/issues"
   },
-  "homepage": "https://github.com/galaa2011/vue-ga#readme",
+  "homepage": "https://github.com/acelan86/rollup-init#readme",
   "dependencies": {
     "chalk": "^1.1.3",
     "copy": "^0.3.0",
